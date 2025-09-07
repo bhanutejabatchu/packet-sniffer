@@ -1,0 +1,10 @@
+Ether / IP / TCP 20.44.10.123:https > 192.168.55.101:54136 PA / Raw
+Ether / IP / TCP 192.168.55.101:54136 > 20.44.10.123:https PA / Raw
+Ether / IP / TCP 20.44.10.123:https > 192.168.55.101:54136 A
+Ether / IP / TCP 192.168.55.101:53472 > 35.223.238.178:https PA / Raw
+Ether / IP / TCP 192.168.55.101:56396 > 35.223.238.178:https S
+Ether / IPv6 / UDP / DNS Qry b'mobile.events.data.microsoft.com.'
+Ether / IPv6 / UDP / DNS Ans b'mobile.events.data.trafficmanager.net.'
+Ether / IP / TCP 192.168.55.101:56397 > 51.11.192.49:https S
+Ether / IP / UDP 192.168.55.101:51150 > 142.250.207.164:https / Raw
+Ether / IP / UDP 192.168.55.101:51150 > 142.250.207.164:https / Raw
